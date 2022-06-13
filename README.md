@@ -1,3 +1,3 @@
 # Emotion-Recognition
 
-Please refer to the slides in the presentation folder to learn about this project.
+Please refer to the slides in the "Presentation" folder to learn about this project.
